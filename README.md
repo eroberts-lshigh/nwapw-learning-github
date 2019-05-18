@@ -2,12 +2,6 @@
 Here is our neato repository!
 
 
-Elliot is here.
-<<<<<<< HEAD
-
-=======
-Anna is here.
->>>>>>> 
-
-
-testing
+Elliot is here. 
+Anna is here. 
+Grace is here.

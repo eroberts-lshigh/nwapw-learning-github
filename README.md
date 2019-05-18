@@ -2,7 +2,8 @@
 Here is our neato repository!
 
 
-Elliot is here.
+Elliot is here. 
+Anna is here. 
+Grace is here.
 
-Anna is here.
-
+Fixed!
